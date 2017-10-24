@@ -1,0 +1,4 @@
+psutil
+prometheus_client
+flask
+netifaces
